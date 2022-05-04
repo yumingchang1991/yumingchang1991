@@ -5,8 +5,10 @@
 - **Express + Node.js** for backend projects
 - **Jest** for testing
 
+[JS30 Challenge](https://yumingchang1991.github.io/JavaScript30/)
+
 ### Looking for ...
-- Junior Backend Developer
+- Backend Developer based in Taipei, or remote
 
 ### Preferred Language
 - JavaScript (now learning)
