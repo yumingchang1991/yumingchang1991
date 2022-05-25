@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Currently working on ...
 [My Online Portfolio](https://yumingchang1991.github.io/personal-portfolio/)
-- **React.js** for the site
+- **React.js** for the site (I'm transforming this to NextJS now)
 - **Express + Node.js** for backend projects
 - **Jest** for testing
 
