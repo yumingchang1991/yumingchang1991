@@ -1,14 +1,13 @@
 ### Hi there 👋
 ### Currently working on ...
 [My Online Portfolio](https://yumingchang1991.github.io/personal-portfolio/)
-- **React.js** for the site (I'm transforming this to NextJS now)
-- **Express + Node.js** for backend projects
+- **React with NextJS**
 - **Jest** for testing
 
 [JS30 Challenge](https://yumingchang1991.github.io/JavaScript30/)
 
 ### Looking for ...
-- Backend Developer based in Taipei, or remote
+- Backend Developer based in Taipei, Sydney, Bangkok or Berlin
 
 ### Preferred Language
 - JavaScript
