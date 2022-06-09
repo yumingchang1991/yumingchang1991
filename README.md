@@ -13,6 +13,5 @@
 - JavaScript
 - TypeScript
 - Golang
-- Python
 
 Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
