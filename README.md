@@ -9,7 +9,7 @@
 
 [ETF Tracker](https://yumingchang1991.github.io/proxy-frontend/)
 - TypeScript, Express, API Cache, Rate Limiter, React, MUI
-- [Backend Repo & README](https://github.com/yumingchang1991/proxy-backend-heroku)
+- [Backend Repo & README](https://github.com/yumingchang1991/proxy-backend)
 - [Frontend Repo & README](https://github.com/yumingchang1991/proxy-frontend)
 
 [Twitter Replicates](https://shielded-springs-90732.herokuapp.com/signin)
