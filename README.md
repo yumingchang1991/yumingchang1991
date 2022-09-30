@@ -13,7 +13,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 ## Currently working on general CS knowledge
 ### General Knowledge
 - [x] Big O Notation of *time complexity* and *space complexity* (2022-09-29)
-- [ ] Coding Interview
+- [x] Coding Interview (2022-09-30)
 
 ### Data Structure
 - [ ] Array
