@@ -16,7 +16,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 - [x] Coding Interview (2022-09-30)
 
 ### Data Structure
-- [ ] Array
+- [x] Array (2022-10-02)
 - [ ] Hash Table
 - [ ] Linked List
 - [ ] Stack & Queue
