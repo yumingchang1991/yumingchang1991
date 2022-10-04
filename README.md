@@ -18,7 +18,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 ### Data Structure
 - [x] Array (2022-10-02)
 - [x] Hash Table (2022-10-03)
-- [ ] Linked List
+- [x] Linked List (2022-10-04)
 - [ ] Stack & Queue
 - [ ] Tree
 - [ ] Graph
