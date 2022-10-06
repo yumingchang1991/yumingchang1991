@@ -19,7 +19,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 - [x] Array (2022-10-02)
 - [x] Hash Table (2022-10-03)
 - [x] Linked List (2022-10-04)
-- [ ] Stack & Queue
+- [x] Stack & Queue (2022-10-06)
 - [ ] Tree
 - [ ] Graph
 
