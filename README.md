@@ -27,7 +27,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 - [ ] Sorting
 - [ ] Searching, BFS and DFS
 - [ ] Dynamic Programming
-- [ ] Recurrsion
+- [x] Recurrsion (2022-10-10)
 
 ### Projects
 [My Online Portfolio](https://yumingchang1991.github.io/personal-portfolio/)
