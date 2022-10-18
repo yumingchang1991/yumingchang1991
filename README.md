@@ -26,7 +26,7 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 ### Algorithms
 - [x] Sorting (2022-10-14)
 - [x] Searching, BFS and DFS (2022-10-18)
-- [ ] Dynamic Programming
+- [x] Dynamic Programming (2022-10-18)
 - [x] Recurrsion (2022-10-10)
 
 ### Projects
