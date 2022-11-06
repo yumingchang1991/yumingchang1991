@@ -21,6 +21,6 @@ Reach me via [LinkedIN](https://www.linkedin.com/in/yumingchang1991/)
 - [Frontend Repo & README](https://github.com/yumingchang1991/proxy-frontend)
 
 Twitter Replicates
-- User Authentication (`Passport.js`) + Group Chat + Private Chat
+- User Authentication `Passport.js` + Group Chat `Socket.io` + Private Chat `Socket.io`
 - Node.js, Express, Socket.io, Handlebars + BootStrap
 - [Repo](https://github.com/yumingchang1991/ac-twitter-fullstack-2022/tree/feat/chatroom/yuming)
